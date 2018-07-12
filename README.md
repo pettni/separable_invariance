@@ -6,12 +6,12 @@ Matlab code for synthesis of separable invariant sets from the paper
 
 ## Classes
 
- - `SepDyn': class for representing linear systems coupled through the dynamics, together with input, disturbance, and state constraints.
+ - `SepDyn`: class for representing linear systems coupled through the dynamics, together with input, disturbance, and state constraints.
 
 ## Functions
- - `solvelmi': solve the synthesis problem
- - `check_sol': verify that a solution is correct
- - `plot_sol': plot a solution
+ - `solvelmi`: solve the synthesis problem
+ - `check_sol`: verify that a solution is correct
+ - `plot_sol`: plot a solution
 
 ## Example usage
 
