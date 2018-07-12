@@ -1,6 +1,8 @@
 # InvSepSynth
 
-Matlab code for synthesis of separable invariant sets.
+Matlab code for synthesis of separable invariant sets from the paper
+
+ - Petter Nilsson and Necmiye Ozay, ***Synthesis of separable controlled invariant sets for modular local control design***, in *Proceedings of the American Control Conference*, pp. 5656-5663, 2016
 
 ## Classes
 
